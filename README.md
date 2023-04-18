@@ -8,7 +8,9 @@
     <title>Document</title>
 </head>
 <body>
+</header>
     <h1>Sk8 Store</h1>
+    </header>
     
 </body>
 </html>
